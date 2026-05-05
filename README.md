@@ -1,4 +1,4 @@
-# jerembkk21-dev-Analyzing-And-Formatting-PostGRE-Sales-Data-sql-
+# analyzing-and-formatting-postgre-sales-data-sql
 
 Super Store SQL Data Cleaning & Analysis
 
