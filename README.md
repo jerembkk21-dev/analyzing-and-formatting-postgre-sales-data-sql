@@ -1,4 +1,4 @@
-#     sales-data-cleaning-and-analysis-with-sql
+#     sales-data-cleaning-and-analysis-sql
 
 Super Store SQL Data Cleaning & Analysis
 
