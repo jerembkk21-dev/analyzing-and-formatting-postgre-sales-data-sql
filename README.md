@@ -1,4 +1,4 @@
-# analyzing-and-formatting-postgre-sales-data-sql
+#     sales-data-cleaning-and-analysis-with-sql
 
 Super Store SQL Data Cleaning & Analysis
 
